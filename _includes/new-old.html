@@ -1,5 +1,7 @@
-<section>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
+<body>
             <div class="content-play">
               <p><a href="javascript:void(0)" onclick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏啦</a></p>
               <div class="hide_box-play"></div>
@@ -43,7 +45,8 @@
               $(".shang_box-play").fadeToggle();
             }
             </script>
-
+</body>
+<head>
             <div style="text-align:center;margin:50px 0; font:normal 14px/24px 'MicroSoft YaHei';"></div>
 
             <style type="text/css">
@@ -71,7 +74,7 @@
               .shang_info-play{clear:both;}
               .shang_info-play p,.shang_info-play a{color:#C3C3C3;text-align:center;font-size:12px;text-decoration:none;line-height:2em;}
             </style>
-
+</head>
        <ul class="pager">
         {% if page.previous.url %}
         <li class="previous">
@@ -86,4 +89,4 @@
         </li>
         {% endif %}
     </ul>
-</section>
+</html>
