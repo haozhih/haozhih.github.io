@@ -34,7 +34,7 @@
     	         $(".pay_item").click(function(){
     		         $(this).addClass('checked').siblings('.pay_item').removeClass('checked');
     		         var dataid=$(this).attr('data-id');
-    	       	   $(".shang_payimg img").attr("src","/dsimg/"+dataid+"img.jpg");
+    	       	   $(".shang_payimg img").attr("src","/images/payimg/"+dataid+"img.jpg");
     		         $("#shang_pay_txt").text(dataid=="alipay"?"支付宝":"微信");
     	         });
               });
@@ -64,8 +64,10 @@
               .pay_explain{text-align:center;margin:10px auto;font-size:12px;color:#545454;}
               .shang_payselect{text-align:center;margin:0 auto;margin-top:40px;cursor:pointer;height:60px;width:500px;margin-left:110px;}
               .shang_payselect .pay_item{display:inline-block;margin-right:140px;float:left;}
-              .radiobox{width: 16px;height: 16px;background: url('/dsimg/radio2.jpg');display: block;float: left;margin-top: 5px;margin-right: 14px;}
-               .checked .radiobox{background:url('/dsimg/radio1.jpg');}
+              .radiobox{width: 16px;height: 16px;background: url('/images/payimg/radio2.jpg');display: block;float: left;margin-top: 5px;margin-right: 14px;}
+               .checked .radiobox{background:url('/images/payimg/radio1.jpg');}
+               .shang_payselect .pay_item{display:inline-block;margin-right:10px;float:left;}
+               .shang_payselect{text-align:center;margin:0 auto;margin-top:40px;cursor:pointer;height:60px;width:280px;}
               .shang_info-play{clear:both;}
               .shang_info-play p,.shang_info-play a{color:#C3C3C3;text-align:center;font-size:12px;text-decoration:none;line-height:2em;}
             </style>
