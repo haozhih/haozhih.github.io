@@ -1,7 +1,7 @@
 # Basic
 title: 郝志
 subtitle: 个人站
-description: 欢迎来到我的博客，共同学习交流！
+description: 欢迎来到我的博客，一起学习交流！
 # 头像里面的标题
 avatarTitle: haozhi
 # 头像里面的描述
@@ -24,7 +24,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id:cd205c44f221b51489bce574a1aec843   
+    id: cd205c44f221b51489bce574a1aec843   
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
