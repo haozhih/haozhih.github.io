@@ -126,7 +126,7 @@ h3 {
   padding: 6px 15px;
   margin-bottom: 20px;
   margin-top: 5px;
-  background:#B9D3EE;
+  background:#c9daf8;
   /*0px right, 5px botton, 5px fuzzy*/
   /*box-shadow: 0px 5px 5px #9FB6CD;*/
    /*border-left: 6px solid #1874CD;*/ 
@@ -186,9 +186,8 @@ ul {
 code {
   color: #000000;
   padding: .1em .4em;
-  background: #e8f2fb;
- /* border: 1px solid #c9e1f6;*/
-  border: 1px solid #FFFFF0;
+  background: #FFFFF0;
+  border: 1px solid #c9e1f6; 
   border-radius: 3px;
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   font-size: 1.0em;
