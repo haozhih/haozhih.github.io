@@ -128,8 +128,10 @@ h3 {
   margin-top: 5px;
   background:#B9D3EE;
   /*0px right, 5px botton, 5px fuzzy*/
-  box-shadow: 0px 5px 5px #9FB6CD;
-  border-left: 6px solid #1874CD; 
+  /*box-shadow: 0px 5px 5px #9FB6CD;*/
+   /*border-left: 6px solid #1874CD;*/ 
+  box-shadow: 0px 5px 5px #E0EEEE;
+  border-left: 6px solid #E0FFFF; 
   position:relative;
 }
 
@@ -185,7 +187,8 @@ code {
   color: #000000;
   padding: .1em .4em;
   background: #e8f2fb;
-  border: 1px solid #c9e1f6;
+ /* border: 1px solid #c9e1f6;*/
+  border: 1px solid #FFFFF0;
   border-radius: 3px;
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   font-size: 1.0em;
