@@ -10,7 +10,7 @@ title: 关于我
 ### 公众号
 写完各种各样文章后会发布到公众号，查看起来很是方便，点击可进入[【我的公众号小站】](http://mp.weixin.qq.com/mp/homepage?__biz=MzI0OTU5Njc3Nw==&hid=1&sn=65639c484e2c6877dc0c4f4852602a17#wechat_redirect)
 
-![公众号](http://ou3sec0jp.bkt.clouddn.com/qrcode_for_gh_8ab7b34283d6_430.jpg)
+![网站](http://ou3sec0jp.bkt.clouddn.com/cli_500px.png)
 
 
 
