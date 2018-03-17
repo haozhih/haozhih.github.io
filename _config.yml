@@ -1,7 +1,7 @@
 # Basic
 title: 郝志
-subtitle: 个人站
-description: 欢迎来到我的博客，一起学习交流！
+subtitle: 个人博客
+description: 总有点东西值得记录！
 # 头像里面的标题
 avatarTitle: haozhi
 # 头像里面的描述
@@ -54,11 +54,11 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 主页
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于我, description: about, url: '/about'}      
     
