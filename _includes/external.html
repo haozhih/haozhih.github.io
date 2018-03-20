@@ -2,6 +2,20 @@
 <script type="text/javascript" src="/js/main.js"></script>
 <script type="text/javascript" src="/js/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" href="/css/styles.css">
+<button class="older-posts pagination__older btn btn-small btn-tertiary"><span>Go above</span></button>
+<script src="/js/jquery.gototop.js"></script>
+<script type="text/javascript">
+	$(function(){
+			// $(".gototop").gototop();
+			$(".gototop").gototop({
+				position : 0,
+				duration : 1250,
+				visibleAt : 300,
+				classname : "isvisible"
+			});
+		});
+</script>
  <script type="text/javascript">
       var a_idx = 0;
       jQuery(document).ready(function($) {
