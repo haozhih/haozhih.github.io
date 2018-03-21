@@ -725,12 +725,12 @@ img::-moz-selection {
   .navigation__item {
     display: inline-block;
     margin-left: 0px;
-    line-height: 4em; 
+    line-height: 1em; 
   }
 
   .navigation__item a {
     display: inline-block;
-    margin-right: 10px;
+    padding: 5px 5px 5px 5px;
     position: relative;
     width: 200%;
     font-size: 1.2em;
