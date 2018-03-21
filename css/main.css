@@ -708,7 +708,7 @@ img::-moz-selection {
   }
   .navigation {
     display: inline-block;
-    float: center;
+    float: left;
     position: relative;
     margin: 0;
     list-style-type: none; 
@@ -734,6 +734,7 @@ img::-moz-selection {
     position: relative;
     width: 200%;
     font-size: 1.2em;
+    left:50%;
     border-color: #666;
     color: #666;
     /*opacity: .8; */
