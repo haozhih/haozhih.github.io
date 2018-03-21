@@ -730,7 +730,6 @@ img::-moz-selection {
 
   .navigation__item a {
     display: inline-block;
-    padding: 5px 5px 5px 5px;
     position: relative;
     width: 200%;
     border-color: #666;
