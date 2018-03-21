@@ -708,7 +708,7 @@ img::-moz-selection {
   }
   .navigation {
     display: inline-block;
-    float: left;
+    float: center;
     position: relative;
     margin: 0;
     list-style-type: none; 
