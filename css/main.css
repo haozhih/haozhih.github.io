@@ -730,6 +730,7 @@ img::-moz-selection {
 
   .navigation__item a {
     display: inline-block;
+    margin-right: 4px;
     position: relative;
     width: 200%;
     font-size: 1.2em;
