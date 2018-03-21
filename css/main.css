@@ -733,8 +733,6 @@ img::-moz-selection {
     padding: 5px 5px 5px 5px;
     position: relative;
     width: 200%;
-    font-size: 1.2em;
-    right:50%;
     border-color: #666;
     color: #666;
     /*opacity: .8; */
