@@ -733,6 +733,7 @@ img::-moz-selection {
     position: relative;
     width: 100%;
     border-color: #666;
+    font-size: 1em;
     color: #666;
     /*opacity: .8; */
   }
