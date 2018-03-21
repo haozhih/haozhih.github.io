@@ -646,7 +646,7 @@ img::-moz-selection {
     font-size: 1.0em;
     height: 30px;
     margin-left: 20px; 
-    color: #458B74;
+    color: #BF1827;
   }
 
   .btn-secondary {
@@ -718,7 +718,7 @@ img::-moz-selection {
     display: inline-block;
     margin-right: 0px;
     padding: 5px 5px 5px 5px;
-    font-size: .6em;
+    font-size: .8em;
     text-shadow: none;
     color: #BF1827;
   }
@@ -1377,7 +1377,7 @@ nav a {
   padding: 0px;
   color: #999;
   font-weight: 700;
-  font-size: 1.8em;
+  font-size: .8em;
   text-shadow: none;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
