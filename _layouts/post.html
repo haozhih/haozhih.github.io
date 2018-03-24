@@ -16,12 +16,6 @@ layout: default
 
   <section class="post">
     {{ content }}
-
-  </section>
-</article>
-
-
-{% include comments.html %}
 <ul class="pager">
         {% if page.previous.url %}
         <li class="previous">
@@ -36,6 +30,11 @@ layout: default
         </li>
         {% endif %}
 </ul>
+  </section>
+</article>
+
+
+{% include comments.html %}
 
 <body>
   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
