@@ -292,7 +292,7 @@ td:last-child {
 }*/
 .pager li>a:hover>span,
 .pager li>a:focus>span{
-  color:#fff;
+  color:#008000;
 }
 ::-moz-selection { 
   color:#fff;
