@@ -126,12 +126,12 @@ h3 {
   padding: 6px 15px;
   margin-bottom: 20px;
   margin-top: 5px;
-  background:#c9daf8;
+  background:#778899;
   /*0px right, 5px botton, 5px fuzzy*/
   /*box-shadow: 0px 5px 5px #9FB6CD;*/
    /*border-left: 6px solid #1874CD;*/ 
-  box-shadow: 0px 5px 5px #E0EEEE;
-  border-left: 6px solid #E0FFFF; 
+  box-shadow: 0px 5px 5px #B0C4DE;
+  border-left: 6px solid #708090; 
   position:relative;
 }
 
