@@ -262,10 +262,6 @@ td:last-child {
 .tagboxtags li{ 
   list-style-type: none;
   margin:0px;
-  border-width:1px; 
-  border-style:solid;
-  border-radius:20px/15px;
-  border-color: #c0c0c0;
   } 
 .next{
   margin-top: 20px;
