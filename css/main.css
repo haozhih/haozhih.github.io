@@ -251,6 +251,7 @@ td:last-child {
 .post-container 
 .pager li{ 
   margin-top: 20px;
+  list-style-type: none;
   width:48%
 }
 .next{
@@ -265,6 +266,7 @@ td:last-child {
   width:100%;
   padding: 10px 10px;  
 }
+
 
 .pager li>a>span{
   padding-right: 10px;
