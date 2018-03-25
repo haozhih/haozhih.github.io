@@ -256,6 +256,7 @@ td:last-child {
 }
 .tagbox li{ 
   list-style-type: none;
+   margin:0px;
 }
 .next{
   margin-top: 20px;
