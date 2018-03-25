@@ -262,6 +262,11 @@ td:last-child {
 .tagboxtags li{ 
   list-style-type: none;
   margin:0px;
+  float: left;
+  width:72px;
+  display: inline;
+  padding:0px 2px;
+  text-align:center;
   } 
 .next{
   margin-top: 20px;
