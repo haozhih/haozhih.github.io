@@ -733,7 +733,7 @@ img::-moz-selection {
   }
   .navigation__item {
     display: inline-block;
-    margin-left: 4px;
+    margin-left: 7px;
     line-height: 1em; 
   }
 
