@@ -733,7 +733,7 @@ img::-moz-selection {
   }
   .navigation__item {
     display: inline-block;
-    margin-left: 9px;
+    margin-left: 10px;
     line-height: 1em; 
   }
 
@@ -873,7 +873,7 @@ img::-moz-selection {
    padding-left: 10px;
   }
   .post-list__post-title a:hover {
-    color: #000000; 
+    color:#2c1608; 
    /*background-color: #FAFAFA;*/
   }
 }
