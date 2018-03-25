@@ -256,10 +256,12 @@ td:last-child {
 }
 .next{
   margin-top: 20px;
+  margin:0px;
   float:right
 }
 .previous{
   margin-top: 20px;
+  margin:0px;
   float:left
 }
 .pager li>a{
