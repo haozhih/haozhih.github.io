@@ -15,7 +15,7 @@ group: navigation
 {% for tag in site.tags %} 
 
   <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
-  <ul> class="tag_box inline">
+  <ul>
     {% assign pages_list = tag[1] %}  
     {% include JB/pages_list %}
   </ul>
