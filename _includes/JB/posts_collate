@@ -33,7 +33,7 @@ Usage:
         <h3>{{this_year}}</h3>
       </div>
       <div class="post_list">
-      <ul>
+      <ul  class="tagbox ">
       
     {% endif %}
   
