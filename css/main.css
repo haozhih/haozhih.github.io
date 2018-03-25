@@ -175,6 +175,8 @@ ol, ul {
 ol li, ul li {
   margin: 0 0 .2em 0;
   line-height: 1.6em; }
+.card {
+ float: left; }
 ol ol, ol ul, ul ol, ul ul {
   margin: .1em 0 .2em 2em; }
 ol {
@@ -263,7 +265,7 @@ td:last-child {
   list-style-type: none;
   margin:0px;
   float: left;
-  width:72px;
+  width:80px;
   display: inline;
   padding:0px 2px;
   text-align:center;
