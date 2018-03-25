@@ -175,9 +175,6 @@ ol, ul {
 ol li, ul li {
   margin: 0 0 .2em 0;
   line-height: 1.6em; }
-.card {
-  margin-top:100px;
-   }
 
 ol ol, ol ul, ul ol, ul ul {
   margin: .1em 0 .2em 2em; }
@@ -265,12 +262,13 @@ td:last-child {
 }
 .tagboxtags li{ 
   list-style-type: none;
-  margin-bottom: 100px;
+   margin:0px;
+  /*margin-bottom: 100px;
   float: left;
   width:80px;
   display: inline;
   padding:0px 2px;
-  text-align:center;
+  text-align:center;*/
   } 
 .next{
   margin-top: 20px;
