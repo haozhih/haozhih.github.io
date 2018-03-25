@@ -176,7 +176,7 @@ ol li, ul li {
   margin: 0 0 .2em 0;
   line-height: 1.6em; }
 .card {
- float: left; }
+ float: center; }
 ol ol, ol ul, ul ol, ul ul {
   margin: .1em 0 .2em 2em; }
 ol {
