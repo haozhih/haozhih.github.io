@@ -266,12 +266,12 @@ td:last-child {
   /*margin-bottom: 100px;*/
   float: left;
   width:80px;
-  height:20px;
+  height:10px;
   display: inline;
   padding:0px 2px;
   border-width:1px; 
     border-style:solid;
-    border-radius:10px/10px;
+    border-radius:20px/10px;
     border-color: #c0c0c0;
   text-align:center;
   } 
