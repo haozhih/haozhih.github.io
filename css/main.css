@@ -271,8 +271,8 @@ td:last-child {
   padding:0px 2px;
   border-width:1px; 
     border-style:solid;
-    border-radius:20px/10px;
-    border-color: #c0c0c0;
+    border-radius:10px/10px;
+    border-color: #c71585;
   text-align:center;
   } 
 .clearfix:after{
