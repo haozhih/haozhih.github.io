@@ -495,7 +495,10 @@ img::-moz-selection {
     margin: 0px;
     /*margin-right: .5em; */
   }
-
+.post-meta__date {
+    margin: 0;
+    color:  #2c1328; 
+  }
 /*  .post-meta__tags {
     margin-left: .2em; 
     background-color: #efefef;
@@ -954,7 +957,7 @@ img::-moz-selection {
 .post-list__meta--date {
   margin-right: .5em;
   margin-left: 10px;
-  margin-top: 3px;
+  margin-top: 2px;
   color: #2c1328; 
   float: left;
 
