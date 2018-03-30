@@ -488,7 +488,7 @@ img::-moz-selection {
 
   .post-meta {
     margin: 0;
-    color: #c7c7c7; 
+    color:  #2c1328; 
   }
 
   .post-meta__date span {
@@ -960,12 +960,12 @@ img::-moz-selection {
 
 }
 
-.post-list__meta--tags-right {
+.post-list__meta--tags {
   
   height: 19px;
   width: 10px;
   margin-top: 4px;
-  margin-left: 5px;
+  margin-left: 2px;
   margin-right: 0px;
 
   padding-left: 5px;
@@ -974,7 +974,7 @@ img::-moz-selection {
   color:  #2c1328;
   
 }
-.post-list__meta--tags {
+.post-list__meta--tags-right {
   color:  #2c1328;
   font-size: 0.7em;
 }
