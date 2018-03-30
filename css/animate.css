@@ -3430,3 +3430,79 @@
 	-o-animation-name: rollOut;
 	animation-name: rollOut;
 }
+ @keyframes lineIn {  
+            from {  
+                width: 0;  
+            }  
+              
+            to {  
+                width: 100%;  
+            }  
+        }  
+        
+@-moz-keyframes lineIn {  
+            from {  
+                width: 0;  
+            }  
+              
+            to {  
+                width: 100%;  
+            }  
+     }  
+        
+        @-o-keyframes lineIn {  
+            from {  
+                width: 0;  
+            }  
+              
+            to {  
+                width: 100%;  
+            }  
+        }  
+      
+        @-webkit-keyframes lineIn {  
+            from {  
+                width: 0;  
+            }  
+              
+            to {  
+                width: 100%;  
+            }  
+        }  
+       
+        @keyframes lineOff {  
+            from {  
+                width: 100%;  
+            }  
+              
+            to {  
+                width: 0;  
+            }  
+        }  
+        @-moz-keyframes lineOff {  
+            from {  
+                width: 100%;  
+            }  
+              
+            to {  
+                width: 0;  
+            }  
+        }  
+        @-o-keyframes lineOff {  
+            from {  
+                width: 100%;  
+            }  
+              
+            to {  
+                width: 0;  
+            }  
+        }  
+        @-webkit-keyframes lineOff {  
+            from {  
+                width: 100%;  
+            }  
+              
+            to {  
+                width: 0;  
+            }  
+        }         
