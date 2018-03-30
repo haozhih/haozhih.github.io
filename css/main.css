@@ -141,7 +141,17 @@ h4 {
 }
 
 h5 {
-  font-size: 1em; }
+  font-size: 1.2em; 
+  text-indent: 4px; 
+  border-radius: 4px; 
+  padding: 6px 15px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  border-width:1px; 
+  border-style:solid;
+  border-radius:10px/10px;
+  border-color: #c71585;
+  }
 
 p {
   margin-bottom: 10px;
@@ -275,6 +285,7 @@ td:last-child {
     border-color: #c71585;
   text-align:center;
   } 
+ 
 .clearfix:after{
     content: ".";       
     display: block;  
