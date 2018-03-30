@@ -980,7 +980,7 @@ img::-moz-selection {
 .post-list__meta--tags-right {
   color:  #2c1328;
   font-size: 0.7em;
-   margin-top: 2px;
+   padding:4px 1px 1px 2px;
 }
 
 .post-list-icon-mate {
