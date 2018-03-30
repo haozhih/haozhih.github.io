@@ -388,7 +388,7 @@ img::-moz-selection {
   }
 
   .excerpt {
-    border-left: 3px solid #2c1608; 
+   /* border-left: 3px solid #2c1608;*/ 
     margin: 0;
     margin-right: 10px;
     font-size: .9em;
@@ -911,7 +911,7 @@ img::-moz-selection {
    display: inline-block;
   }
   .post-list__post-title a:hover::after {
-    color:#2c1328; 
+    color:#9c1328; 
    /*background-color: #FAFAFA;*/
     content: "";  
             display: block;  
@@ -999,8 +999,8 @@ img::-moz-selection {
 
 .post-list__divider {
   width: 30%;
-  margin: 2.2em 0 2.1em 0;
-  border-top: 1px solid #DDDDDD; }
+  margin: 3.2em 0 2.1em 0;
+  border-top: 1px solid #2c1328; }
 .post-list__divider12 {
   width: 100%;
   margin: 3.2em 0 2.1em 0;
