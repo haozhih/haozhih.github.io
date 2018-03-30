@@ -272,7 +272,7 @@ td:last-child {
 }
 .tagboxtags li{ 
   list-style-type: none;
-   margin:0px;
+   margin:2px;
   /*margin-bottom: 100px;*/
   float: left;
   width:80px;
