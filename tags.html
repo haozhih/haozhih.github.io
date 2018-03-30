@@ -14,8 +14,7 @@ group: navigation
 <div class = "card">
 {% for tag in site.tags %} 
 
-  <h3 class="tagboxtags ">
-  	id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
+  <h3 class="tagboxtags " id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
   <ul class="tagbox ">
     {% assign pages_list = tag[1] %}  
     {% include JB/pages_list %}
