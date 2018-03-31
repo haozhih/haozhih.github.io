@@ -914,7 +914,7 @@ img::-moz-selection {
    display: inline-block;
   }
   .post-list__post-title a:hover::after {
-    color:#9c1328; 
+    color: #9c1328; 
    /*background-color: #FAFAFA;*/
     content: "";  
             display: block;  
