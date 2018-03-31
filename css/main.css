@@ -392,9 +392,9 @@ img::-moz-selection {
     margin: 0;
     margin-right: 10px;
     font-size: 1em;
-    /*background-color: #fff;*/
+    /*background-color: #fff;#4F4F4F*/
     text-indent: 10px;
-    color: #4F4F4F; 
+    color: #999999;  
   }
 
   .intro {
