@@ -697,7 +697,7 @@ img::-moz-selection {
     padding: 3px 3px 3px 3px;
     border-width:1px; 
     border-style:solid;
-    border-radius:20px/15px;
+    border-radius:15px/15px;
     border-color: #BF1827;/*#c0c0c0;*/
     color: #BF1827;
   }
