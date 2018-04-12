@@ -918,8 +918,11 @@ img::-moz-selection {
    position: relative;  
    display: inline-block;
   }
+  .post-list__post-title a:hover {
+  	color: #9c1328; 
+  	 }
   .post-list__post-title a:hover::after {
-    color: #9c1328; 
+    
    /*background-color: #FAFAFA;*/
     content: "";  
             display: block;  
