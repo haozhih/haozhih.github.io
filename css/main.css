@@ -779,6 +779,7 @@ img::-moz-selection {
     display: inline-block;
     margin-left: 10px;
     line-height: 1em; 
+    width: 50px;
   }
 
   .navigation__item a {
