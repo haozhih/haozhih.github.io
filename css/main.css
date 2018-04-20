@@ -800,7 +800,7 @@ img::-moz-selection {
 
   .navigation__item_social {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 15px;
     width: 50px;
   }
   .navigation__item_social a {
@@ -809,7 +809,7 @@ img::-moz-selection {
   }
 
   .navigation__item_social a:hover {
-    color: #000;
+    color: #fff;
   }
 
   .navigation--social a {
