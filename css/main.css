@@ -777,7 +777,7 @@ img::-moz-selection {
   }
   .navigation__item {
     display: inline-block;
-    margin-left: 10px;
+    margin-right: 10px;
     line-height: 1em; 
     width: 50px;
   }
@@ -801,7 +801,7 @@ img::-moz-selection {
 
   .navigation__item_social {
     display: inline-block;
-    margin-right: 15px;
+    margin-right: 10px;
     width: 50px;
   }
   .navigation__item_social a {
