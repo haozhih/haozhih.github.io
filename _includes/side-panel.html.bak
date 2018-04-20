@@ -16,7 +16,7 @@
                                 {{site.avatarTitle}}
                             {% endif %}
                         </h2>
-                        
+                        <hr class="panel-cover__divider" />
                         <p>
                            {% if site.avatarDesc %}
                                 {{site.avatarDesc}}
