@@ -801,7 +801,7 @@ img::-moz-selection {
 
   .navigation__item_social {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 5px;
     width: 50px;
   }
   .navigation__item_social a {
