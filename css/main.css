@@ -1018,6 +1018,7 @@ img::-moz-selection {
   width: 100%;
   margin: 3.2em 0 2.1em 0;
   border-top: 1px solid #7b0f19; }
+  
 *:focus {
   outline: none; }
 
