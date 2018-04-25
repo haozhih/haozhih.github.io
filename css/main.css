@@ -1310,7 +1310,7 @@ body {
 .ih-item.circle.effect .info p {
     color: #bbb;
     padding: 0px 0px 0px 0px;
-    font-style: italic;
+   /* font-style: italic;*/
     padding-left: 0px;
     font-size: 10px;
 }
