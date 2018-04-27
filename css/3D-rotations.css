@@ -31,7 +31,7 @@ body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
 
-    background: #00000f;
+    background: url('http://ou3sec0jp.bkt.clouddn.com/621.jpg');/*#00000f*/
     color: rgb(102, 102, 102);
 }
 
@@ -150,7 +150,7 @@ a {
     border-radius: 0.2em;
     border-bottom: 1px solid rgba(100,100,100,0.2);
     border-left:   1px solid rgba(100,100,100,0.2);
-    font-size: 20pt;
+    font-size: 40pt;
     transition:         0.5s;
 }
 a:hover,
