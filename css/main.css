@@ -1014,8 +1014,9 @@ img::-moz-selection {
   width: 30%;
   margin: 3.2em 0 2.1em 0;
   border-top: 1px solid #2c1328; }
+  
 .post-list__divider12 {
-  width: 100%;
+  width: auto;
   margin: 3.2em 0 2.1em 0;
   border-top: 1px solid #7b0f19; }
   
