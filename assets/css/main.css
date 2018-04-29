@@ -720,10 +720,10 @@
 			font-weight: normal;
 			text-transform: none !important;
 		}
-	.post a {
+	.post  {
   	color: #ffffff; 
   	 }	
- .post a:hover {
+ .post:hover {
   	color: #9c1328; 
   	 }
 		.icon > .label {
