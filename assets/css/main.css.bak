@@ -720,12 +720,7 @@
 			font-weight: normal;
 			text-transform: none !important;
 		}
-	.post a {
-  	color: #ffffff; 
-  	 }	
- .post a:hover {
-  	color: #9c1328; 
-  	 }
+
 		.icon > .label {
 			display: none;
 		}
