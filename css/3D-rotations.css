@@ -30,9 +30,7 @@
 body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
-    background-repeat:no-repeat;
-    background-size:cover;
-    background: url('http://ou3sec0jp.bkt.clouddn.com/621.jpg');/*#00000f*/
+    background: #00001f;/*url('http://ou3sec0jp.bkt.clouddn.com/621.jpg');*/
     color: rgb(102, 102, 102);
 }
 
