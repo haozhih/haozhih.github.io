@@ -1,4 +1,4 @@
-# Basic
+﻿# Basic
 title: 郝志
 subtitle: 个人博客
 description: 总有点东西值得记录！
@@ -24,7 +24,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: cd205c44f221b51489bce574a1aec843   
+    id: 9a8cb0c6f863b8afc69aa37f345b6d82   
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
